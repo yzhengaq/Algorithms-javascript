@@ -1,0 +1,28 @@
+{
+  "name": "algorithms-javascript",
+  "version": "1.0.0",
+  "description": "Algorithms codes in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint 'src/**' --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzhengaq/Algorithms-javascript.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzhengaq/Algorithms-javascript/issues"
+  },
+  "homepage": "https://github.com/yzhengaq/Algorithms-javascript#readme",
+  "devDependencies": {
+    "eslint": "^5.11.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
